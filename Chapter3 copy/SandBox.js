@@ -130,17 +130,17 @@ let names = ["bmw", "toyota", "wish", "big horn"];
 // }
 
 
-let marks = [10, 20, 30, 40, 50, 60, 70]
+// let marks = [10, 20, 30, 40, 50, 60, 70]
 
-for (i = 0; i < marks.length; i++) {
-   if (marks[i] === 40) {
-      console.log('you have passed')
-      continue;
-   } else if (marks[i] === 50) {
-      console.log('you have passed with 50%')
+// for (i = 0; i < marks.length; i++) {
+//    if (marks[i] === 40) {
+//       console.log('you have passed')
+//       continue;
+//    } else if (marks[i] === 50) {
+//       console.log('you have passed with 50%')
 
-   }
-}
+//    }
+// }
 
 
 
